@@ -1,5 +1,0 @@
-python
-streamlit
-pandas
-xgboost
-zipp
