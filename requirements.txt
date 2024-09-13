@@ -1,8 +1,0 @@
-werkzeug
-gunicorn
-numpy
-streamlit
-gunicorn
-scikit-learn
-node
-joblib
