@@ -1,8 +1,7 @@
+werkzeug
+gunicorn
+numpy
 streamlit
 gunicorn
-pandas
-joblib
-numpy
 scikit-learn
-Node
-wsgiapp
+joblib
