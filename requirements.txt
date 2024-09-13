@@ -4,4 +4,4 @@ pandas
 joblib
 numpy
 scikit-learn
-Node = 18.18.0
+Node
