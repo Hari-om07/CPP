@@ -1,4 +1,4 @@
-python
+python==3.11.2
 streamlit
 pandas
 xgboost
