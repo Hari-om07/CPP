@@ -1,3 +1,4 @@
+python
 streamlit
 pandas
 xgboost==2.1.1
